@@ -1,0 +1,28 @@
+{
+  "name": "asincronismo_js",
+  "version": "1.0.0",
+  "description": "Trabajando con Asincronismo en JavaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js",
+    "callback:challenge": "node src/callback/challenge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IvanGonzalezR/platzi-Curso_de_Asincronismo_con_JavaScript.git"
+  },
+  "keywords": [
+    "callback",
+    "async",
+    "promise"
+  ],
+  "author": "IvanG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IvanGonzalezR/platzi-Curso_de_Asincronismo_con_JavaScript/issues"
+  },
+  "homepage": "https://github.com/IvanGonzalezR/platzi-Curso_de_Asincronismo_con_JavaScript#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}

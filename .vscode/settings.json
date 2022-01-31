@@ -1,0 +1,5 @@
+{
+    "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+    "editor.defaultFormatter": "HookyQR.beautify"
+}
